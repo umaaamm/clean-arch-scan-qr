@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94014750-2E3A-4A0B-AC5B-A0783B42069E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BF1C0E2-BE05-4DE4-9D0B-67BB1B212E18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "showDataR(datas:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BF1C0E2-BE05-4DE4-9D0B-67BB1B212E18 - d1d70054aa5f5e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "3BF1C0E2-BE05-4DE4-9D0B-67BB1B212E18 - d1d70054aa5f5e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "3BF1C0E2-BE05-4DE4-9D0B-67BB1B212E18 - d1d70054aa5f5e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBEA83DB-1786-44F1-9481-52841DE2B986"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/Presenter/ScanQrPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getDataRealm()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBEA83DB-1786-44F1-9481-52841DE2B986 - 5a916019b97b75b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ScanQR.RealmEntity&gt;, ScanQR.RealmError&gt;) -&gt; () in ScanQR.ScanQrPresenterImpl.getDataRealm() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/Presenter/ScanQrPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "BBEA83DB-1786-44F1-9481-52841DE2B986 - 5a916019b97b759e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ScanQR.RealmEntity&gt;, ScanQR.RealmError&gt;) -&gt; () in ScanQR.ScanQrPresenterImpl.getDataRealm() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/Presenter/ScanQrPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EA4C74B-0DD1-4047-ACAD-C451E6320974"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "startFetching()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EA4C74B-0DD1-4047-ACAD-C451E6320974 - 8245e888ccf1f5e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.startFetching() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "7EA4C74B-0DD1-4047-ACAD-C451E6320974 - 8245e888ccf1f50e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.startFetching() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1959F6D8-1329-43FC-95EC-88112EBEE8DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "showDataR(datas:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1959F6D8-1329-43FC-95EC-88112EBEE8DA - d1d70054aa5f5e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1959F6D8-1329-43FC-95EC-88112EBEE8DA - d1d70054aa5f5fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1959F6D8-1329-43FC-95EC-88112EBEE8DA - d1d70054aa5f5fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.showDataR(datas: Swift.Array&lt;ScanQR.RealmEntity&gt;) -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "586B820C-90B7-49CD-AE90-5F4B7BA065EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "586B820C-90B7-49CD-AE90-5F4B7BA065EB - f4616c509b22e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "586B820C-90B7-49CD-AE90-5F4B7BA065EB - f4616c509b22e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C976884-3AB0-4B63-95F6-0B0222B1F089"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "startFetching()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C976884-3AB0-4B63-95F6-0B0222B1F089 - 8245e888ccf1f5e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.startFetching() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "3C976884-3AB0-4B63-95F6-0B0222B1F089 - 8245e888ccf1f50e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanQR.HistoryTransaksiViewController.startFetching() -&gt; ()"
+                  moduleName = "ScanQR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/ScanQR/ScanQR/Presentation/View/HistoryTransaksi/HistoryTransaksiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39B31B87-A903-4623-9C87-95BADF223AC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQRTests/UseCase/ScanQrUseCaseTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "saveDataRealm(datas:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDF9419D-6484-4516-8AF6-2808016D5958"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanQRTests/UseCase/ScanQrUseCaseTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "saveDataRealm(datas:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
